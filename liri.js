@@ -60,7 +60,7 @@ function getMovie(movie) {
         var IMDBRating = "NA";
         var RotttenTomatoesRating = "NA";
         console.log("******************************");
-        console.log("You searched for" + movie + ". I found this...");
+        console.log("You searched for " + movie + ". I found this...");
         console.log("******************************");
         for (let i = 0; i < response.data.Ratings.length; i++) {
             IMDBRating = response.data.Ratings[i].Source === "Internet Movie Database" ? response.data.Ratings[i].Value : IMDBRating;
