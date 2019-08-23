@@ -2,6 +2,8 @@
 
 A link to the working app is here: https://drive.google.com/file/d/1-EriWi7gIfVfyxEd03Tbg7z0JlMmLxaZ/view
 
+git link is here: https://github.com/bavillalon/liri-node-app
+
 the purpose of the app is to allow a user to type in a command for one of three entertainment based apis and recieve the recpose in a user readable format.
 the entertainment apis are bands in town for concerts, spotify for songs, omdb for movies. 
 
